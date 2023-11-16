@@ -1,0 +1,4 @@
+rootProject.name = 'taskservice'
+include 'src:main:docker'
+findProject(':src:main:docker')?.name = 'docker'
+
