@@ -10,5 +10,3 @@ Step 1: Clone this project
 Step 2: Open Docker on your laptop
 
 Step 3: Run project by "./gradlew bootRun" command
-## Postman Collection
-https://api.postman.com/collections/27234579-52de73ff-99a0-4f16-a842-7237a6a22e3b?access_key=PMAT-01HFBQZ9K78KBFY0MWENS7Y5V5
